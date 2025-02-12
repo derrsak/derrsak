@@ -73,9 +73,9 @@ Front-End разработчик с фокусом на RAGE:MP. Специал�
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shark4jk&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false" height="150" alt=""/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shark4jk&theme=slateorange&hide_border=false" height="150" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark4jk&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=derrsak&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false" height="150" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derrsak&theme=slateorange&hide_border=false" height="150" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrsak&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt=""/>
 </div>
 
 ---
@@ -91,5 +91,5 @@ Front-End разработчик с фокусом на RAGE:MP. Специал�
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shark4jk&style=flat-square&color=blue" alt="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=derrsak&style=flat-square&color=blue" alt="Просмотры профиля"/>
 </p>
