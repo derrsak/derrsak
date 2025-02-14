@@ -31,7 +31,7 @@ Front-End разработчик с фокусом на RAGE:MP. Специал�
   - 🛠️ I develop systems from scratch and modify existing projects
   - 🐛 I professionally fix both minor and complex bugs
   - 💡 Ready to perform a test task
-  - ⚡ 2 years of commercial experience in development
+  - ⚡ 1 years of commercial experience in development
 </details>
 
 ---
