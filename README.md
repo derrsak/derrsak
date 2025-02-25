@@ -12,9 +12,9 @@
 
 ### 💻 Обо мне / About Me:
 
-Front-End разработчик с фокусом на RAGE:MP. Специализируюсь на создании, редактировании и оптимизации модов.
+Front-End разработчик с фокусом на RAGE:MP. Специализируюсь на создании, редактировании и оптимизации cef'а.
 
-- 🛠️ Разрабатываю системы "с нуля" и модифицирую существующие проекты
+- 🛠️ Разработка пользовательский интерфейсов
 - 🐛 Профессионально исправляю как мелкие, так и сложные баги
 - 💡 Готов к выполнению тестового задания
 - ⚡ Более 1-го года коммерческого опыта в разработке
@@ -26,9 +26,9 @@ Front-End разработчик с фокусом на RAGE:MP. Специал�
 
 <details>
   <summary align="center">click here</summary>
-  Front-End developer with a focus on RAGE:MP. Specializes in creating, editing and optimizing mods.
+  Front-End developer with a focus on RAGE:MP. Specializes in creating, editing and optimizing cef.
   
-  - 🛠️ I develop systems from scratch and modify existing projects
+  - 🛠️ User interface development
   - 🐛 I professionally fix both minor and complex bugs
   - 💡 Ready to perform a test task
   - ⚡ 1 years of commercial experience in development
