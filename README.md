@@ -65,7 +65,7 @@ Front-End разработчик с фокусом на RAGE:MP. Специал�
       <img src="https://img.shields.io/badge/RAGE:MP Forum-FF0000?style=for-the-badge&logo=gamejolt&logoColor=white"/>
     </a>
     <a href="">
-      <img src="https://img.shields.io/badge/derrsak-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/haserq-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 
  **Портфолио**: Доступно по запросу
